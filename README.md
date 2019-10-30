@@ -9,3 +9,5 @@
 Код программы: 2dz.c и 3dz.c
 
 Исполняемый файл под Windows: 2dz.exe и 3dz.c
+
+Визуализация происходит в расширении для Visual Studio Code - Graphviz!
